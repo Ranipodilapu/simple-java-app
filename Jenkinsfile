@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         maven 'Maven3' // Make sure this Maven installation exists in Jenkins
-        jdk 'open JDK11'   // Make sure this JDK installation exists in Jenkins
+        jdk 'Open JDK11'   // Make sure this JDK installation exists in Jenkins
     }
 
     stages {
